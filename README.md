@@ -1,0 +1,1 @@
+# project-deployed-static-website-in-aws
